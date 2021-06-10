@@ -1,3 +1,4 @@
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/lib/app.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <?php require 'partial/head.php'; ?>
